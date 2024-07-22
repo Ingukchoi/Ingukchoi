@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ingukchoi
-- 👀 I’m interested in Neural Combinatorial Optimization and Scheduling with Reinforcement Learnin
+- 👀 I’m interested in Neural Combinatorial Optimization and Scheduling with Reinforcement Learning
 - :school: Affiliation : MSS Lab, Department of Industrial & Systems Engineering, KAIST (Prof. Hyun-junk Kim)
 - :mailbox_with_mail: inguk0826@kaist.ac.kr
