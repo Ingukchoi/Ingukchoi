@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Ingukchoi
 - 👀 I’m interested in Neural Combinatorial Optimization and Scheduling with Reinforcement Learnin
+- Affliation : Department of Industrial & Systems Engineering. KAIST
